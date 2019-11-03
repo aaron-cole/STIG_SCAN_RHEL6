@@ -7,7 +7,7 @@
 #STIG Identification
 GrpID="V-38583"
 GrpTitle="SRG-OS-999999"
-RuleID="SV-50384r4_rule"
+RuleID="SV-50384r5_rule"
 STIGID="RHEL-06-000067"
 Results="./Results/$GrpID"
 
@@ -26,13 +26,6 @@ echo $STIGID >> $Results
 if [ -f /boot/grub/grub.conf ]; then
  stat -Lc %a /boot/grub/grub.conf >> $Results
  if [ `stat -Lc %a /boot/grub/grub.conf` == "600" ]; then
-  echo "Pass" >> $Results
- else 
-  echo "Fail" >> $Results
- fi
-elif [ -f /boot/efi/EFI/redhat/grub.conf ]; then
- stat -Lc %a /boot/efi/EFI/redhat/grub.conf >> $Results
- if [ `stat -Lc %a /boot/efi/EFI/redhat/grub.conf` == "600" ]; then
   echo "Pass" >> $Results
  else 
   echo "Fail" >> $Results

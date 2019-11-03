@@ -7,7 +7,7 @@
 #STIG Identification
 GrpID="V-38617"
 GrpTitle="SRG-OS-000169"
-RuleID="SV-50418r1_rule"
+RuleID="SV-50418r2_rule"
 STIGID="RHEL-06-000243"
 Results="./Results/$GrpID"
 
@@ -23,7 +23,7 @@ echo $STIGID >> $Results
 
 ###Check###
 
-if grep Ciphers /etc/ssh/sshd_config | egrep -vi "#|arcfour|cbc|blowfish|cast" | egrep "aes128|aes192|aes256" >> $Results ; then 
+if grep Ciphers /etc/ssh/sshd_config | egrep -vi "#|arcfour|cbc|blowfish|cast" | egrep "aes128-ctr|aes192-ctr|aes256-ctr" >> $Results ; then 
  echo "Pass" >> $Results
 else
  grep Ciphers /etc/ssh/sshd_config | grep -v "#" >> $Results 

@@ -2,12 +2,12 @@
 ##Automatically defined items##
 
 #Vulnerability Discussion
-#ExecShield uses the segmentation feature on all x86 systems to prevent execution in memory higher than a certain address. It writes an address as a limit in the code segment descriptor, to control where code can be executed, on a per-process basis. When the kernel places a process
+#ExecShield uses the segmentation feature on all x86 systems to prevent execution in memory higher than a certain address. It writes an address as a limit in the code segment descriptor, to control where code can be executed, on a per-process basis. When the kernel places a process's memory regions such as the stack and heap higher than this address, the hardware prevents execution in that address range.
 
 #STIG Identification
 GrpID="V-38597"
 GrpTitle="SRG-OS-999999"
-RuleID="SV-50398r2_rule"
+RuleID="SV-50398r3_rule"
 STIGID="RHEL-06-000079"
 Results="./Results/$GrpID"
 
