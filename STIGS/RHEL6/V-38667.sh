@@ -22,10 +22,18 @@ echo $STIGID >> $Results
 ##END of Automatic Items##
 
 ###Check###
-if [ "$(rpm -qa | grep MFEhiplsm)" ] && [ "$(ps -ef | grep -i "hipclient")" ]; then
- echo "Running Status - $(service hipclient status 2>> $Results)" >> $Results
- echo "Startup Status - $(chkconfig hipclient --list 2>> $Results)" >> $Results
- echo "Pass" >> $Results
+
+echo "Running Status - $(service isectpd status 2>> $Results)" >> $Results
+echo "Startup Status - $(chkconfig isectpd --list 2>> $Results)" >> $Results
+
+if rpm -q ISecTP >> $Results; then
+ if [ "$(service isectpd status 2>>/dev/null | grep "not running.")" ] || [ "$(chkconfig isectpd --list 2>>/dev/null | grep -e "\<[3-5]\>:off")" ] ; then 
+  echo "McAfee ENSL Installed but not running" >> $Results
+  echo "Fail" >> $Results
+ else
+  /opt/isec/ens/threatprevention/bin/isecav --version >> $Results
+  echo "Pass" >> $Results
+ fi
 else
  echo "Selinux Status - $(getenforce)" >> $Results
  echo "Fail" >> $Results

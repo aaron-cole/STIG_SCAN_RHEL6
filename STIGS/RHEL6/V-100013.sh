@@ -2,13 +2,13 @@
 ##Automatically defined items##
 
 #Vulnerability Discussion
-#Causing idle users to be automatically logged out guards against compromises one system leading trivially to compromises on another.
+#DoD information systems are required to use FIPS 140-2 approved cryptographic hash functions. The only SSHv2 hash algorithm meeting this requirement is SHA.
 
 #STIG Identification
-GrpID="V-38608"
-GrpTitle="SRG-OS-000163"
-RuleID="SV-50409r2_rule"
-STIGID="RHEL-06-000230"
+GrpID="V-100013"
+GrpTitle="SRG-OS-000250-GPOS-00093"
+RuleID="SV-109117r1_rule"
+STIGID="RHEL-06-000228"
 Results="./Results/$GrpID"
 
 #Remove File if already there
@@ -23,9 +23,9 @@ echo $STIGID >> $Results
 
 ###Check###
 
-if [ -f /etc/ssh/sshd_config ] && [ "$(grep "^ClientAliveInterval" /etc/ssh/sshd_config | wc -l)" -eq 1 ]; then
-awk -v opf="$Results" '/^ClientAliveInterval/ {
-	if($2 <= 900) {
+if [ -f /etc/ssh/sshd_config ] && [ "$(grep "^MACs" /etc/ssh/sshd_config | wc -l)" -eq 1 ]; then
+ awk -v opf="$Results" '/^MACs/ {
+	if($2 == "hmac-sha2-512,hmac-sha2-256" || $2 == "hmac-sha2-256,hmac-sha2-512") {
 	 print $0 >> opf
 	 print "Pass" >> opf
 	} else {
