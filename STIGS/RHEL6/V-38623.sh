@@ -25,7 +25,7 @@ echo $STIGID >> $Results
 scorecheck=0
 
 for fn in $(grep -v "^#" /etc/rsyslog.conf | sed s/^[^\/]*// | grep "^/" | cut -f1 -d" " | grep -v "/var/log/boot.log"); do 
- if [ -e $fn ]; then
+ if [ -f $fn ]; then
   stat -c %n-%a $fn >> $Results 
   if [ "$(stat -c %a $fn)" -gt "600" ]; then 
    ((scorecheck+=1))
