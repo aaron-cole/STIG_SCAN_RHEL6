@@ -2,12 +2,12 @@
 ##Automatically defined items##
 
 #Vulnerability Discussion
-#Adding host-based intrusion detection tools can provide the capability to automatically take actions in response to malicious behavior, which can provide additional agility in reacting to network threats. These tools also often include a reporting capability to provide network awareness of system, which may not otherwise exist in an organization
+#Adding host-based intrusion detection tools can provide the capability to automatically take actions in response to malicious behavior, which can provide additional agility in reacting to network threats. These tools also often include a reporting capability to provide network awareness of system, which may not otherwise exist in an organization's systems management regime.
 
 #STIG Identification
 GrpID="V-38667"
 GrpTitle="SRG-OS-000196"
-RuleID="SV-50468r3_rule"
+RuleID="SV-50468r4_rule"
 STIGID="RHEL-06-000285"
 Results="./Results/$GrpID"
 

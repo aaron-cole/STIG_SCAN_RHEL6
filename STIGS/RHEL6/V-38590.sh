@@ -2,12 +2,12 @@
 ##Automatically defined items##
 
 #Vulnerability Discussion
-#Installing "screen" ensures a console locking capability is available for users who may need to suspend console logins.
+#
 
 #STIG Identification
 GrpID="V-38590"
 GrpTitle="SRG-OS-000030"
-RuleID="SV-50391r1_rule"
+RuleID="SV-50391r2_rule"
 STIGID="RHEL-06-000071"
 Results="./Results/$GrpID"
 
@@ -23,8 +23,26 @@ echo $STIGID >> $Results
 
 ###Check###
 
-if rpm -q screen >> $Results; then
- echo "Pass" >> $Results
-else 
+justneedone=0
+
+if grep "TMOUT" /etc/profile.d/* | grep -v ":#"  >> /dev/null; then
+ chkfiles="$(grep "TMOUT" /etc/profile.d/* | grep -v ":#" | cut -f 1 -d ":" | sort | uniq)"
+ for chkfile in $chkfiles; do
+  if grep "TMOUT=" $chkfile | grep -v "^#" | awk -F= '$2 <=900' >> $Results; then
+   if grep "readonly TMOUT" $chkfile | grep -v "^#" >> $Results; then
+    if grep "export TMOUT" $chkfile | grep -v "^#" >> $Results; then
+	 justneedone=1
+	 break
+    fi
+   fi
+  fi
+ done
+ if [ "$justneedone" -eq 1 ]; then
+  echo "Pass" >> $Results
+ else
+  echo "Fail" >> $Results
+ fi
+else
+ echo "TMOUT setting not properly deployed in /etc/profile.d/" >> $Results
  echo "Fail" >> $Results
-fi
+fi 

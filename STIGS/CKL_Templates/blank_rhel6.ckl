@@ -38,11 +38,11 @@
 				</SI_DATA>
 				<SI_DATA>
 					<SID_NAME>filename</SID_NAME>
-					<SID_DATA>U_RHEL_6_STIG_V1R25_Manual-xccdf.xml</SID_DATA>
+					<SID_DATA>U_RHEL_6_STIG_V1R26_Manual-xccdf.xml</SID_DATA>
 				</SI_DATA>
 				<SI_DATA>
 					<SID_NAME>releaseinfo</SID_NAME>
-					<SID_DATA>Release: 25 Benchmark Date: 24 Apr 2020</SID_DATA>
+					<SID_DATA>Release: 26 Benchmark Date: 24 Jul 2020</SID_DATA>
 				</SI_DATA>
 				<SI_DATA>
 					<SID_NAME>title</SID_NAME>
@@ -50,7 +50,7 @@
 				</SI_DATA>
 				<SI_DATA>
 					<SID_NAME>uuid</SID_NAME>
-					<SID_DATA>7fce77bf-1e43-46ea-bba7-52a9f8be11e6</SID_DATA>
+					<SID_DATA>1933f9cd-ce41-40b0-9e67-ffe9d2344190</SID_DATA>
 				</SI_DATA>
 				<SI_DATA>
 					<SID_NAME>notice</SID_NAME>
@@ -171,7 +171,7 @@ Stop the service if it is already running:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -286,7 +286,7 @@ UEFI systems may prepend "/boot" to the "/vmlinuz-version" argument.</ATTRIBUTE_
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -400,7 +400,7 @@ If it does not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -519,7 +519,7 @@ Restart the IPv6 firewall:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -633,7 +633,7 @@ If they are not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -751,7 +751,7 @@ If there are no aliases configured for root that forward to a monitored email ad
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -876,7 +876,7 @@ yum reinstall [affected_package]
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -990,7 +990,7 @@ If it does not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -1104,7 +1104,7 @@ If it does not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -1218,7 +1218,7 @@ If it does not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -1332,7 +1332,7 @@ If it does not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -1451,7 +1451,7 @@ If the existing permissions are more permissive than those expected by RPM, this
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -1569,7 +1569,7 @@ If any output has not been documented with the ISSO, this is a finding.
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -1687,7 +1687,7 @@ If any output has not been documented with the ISSO, this is a finding.
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -1799,7 +1799,7 @@ If no line is returned, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -1911,7 +1911,7 @@ If no line is returned, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -2025,7 +2025,7 @@ If it does not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -2139,7 +2139,7 @@ If it does not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -2253,7 +2253,7 @@ If it does not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -2371,7 +2371,7 @@ If there is output, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -2485,7 +2485,7 @@ If it does not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -2597,7 +2597,7 @@ If no line is returned, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -2724,7 +2724,7 @@ Set this to "syslog", "exec", "single", or "halt".</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -2853,7 +2853,7 @@ If any file in these directories is found to be group-writable or world-writable
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -2996,7 +2996,7 @@ Or
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -3108,7 +3108,7 @@ If no line is returned, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -3235,7 +3235,7 @@ Set this to "syslog", "exec", "single", or "halt".</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -3366,7 +3366,7 @@ If any file in these directories is found to be group-writable or world-writable
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -3496,7 +3496,7 @@ RHEL-06-000521 ensures that the email generated through the operation "space_lef
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -3609,7 +3609,7 @@ If the "active" setting is missing or set to "no", this is a finding.</ATTRIBUTE
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -3741,7 +3741,7 @@ If any file [FILE] in these directories is found to be owned by a user other tha
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -3853,7 +3853,7 @@ If no line is returned, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -3974,7 +3974,7 @@ Another keyboard sequence may be substituted for "&lt;Control&gt;&lt;Alt&gt;l", 
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -4100,7 +4100,7 @@ The DoD requirement is "15". If a program consults "/etc/login.defs" and also an
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -4222,7 +4222,7 @@ If the system is not connected to the Internet or an RHN Satellite, then install
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -4338,7 +4338,7 @@ A value of 1 day is considered sufficient for many environments. The DoD require
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -4468,7 +4468,7 @@ If the service is running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -4584,7 +4584,7 @@ The DoD requirement is 60.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -4700,7 +4700,7 @@ The DoD requirement is 7.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -4820,7 +4820,7 @@ If the system is not configured to use one of these sources, updates (in the for
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -4937,7 +4937,7 @@ Edit /etc/pam.d/system-auth and /etc/pam.d/password-auth adding "dcredit=-1" aft
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -5053,7 +5053,7 @@ gpgcheck=1</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -5170,7 +5170,7 @@ While it is acceptable to remove the keyword entirely since the default action f
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -5281,7 +5281,7 @@ Implement a process whereby OS data is backed up from the system in accordance w
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -5397,7 +5397,7 @@ gpgcheck=0</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -5508,7 +5508,7 @@ Implement a process whereby user data is backed up from the system in accordance
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -5624,7 +5624,7 @@ If the package is not installed, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -5739,7 +5739,7 @@ This will prevent the "modprobe" program from loading the "usb-storage" module, 
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -5853,7 +5853,7 @@ $ rm ~/.rhosts</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -5972,7 +5972,7 @@ Note:  Virtual console entries are not limited to those listed above.  Any lines
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -6086,7 +6086,7 @@ If any are more permissive, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -6203,7 +6203,7 @@ Note:  Serial port entries are not limited to those listed above.  Any lines sta
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -6317,7 +6317,7 @@ If they are not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -6434,7 +6434,7 @@ Disable logon access to these accounts with the command:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -6546,7 +6546,7 @@ If NULL passwords can be used, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -6660,7 +6660,7 @@ If any are more permissive, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -6772,7 +6772,7 @@ If any stored hashes are found in /etc/passwd, this is a finding.</ATTRIBUTE_DAT
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -6884,7 +6884,7 @@ If any account other than root has a UID of 0, this is a finding.</ATTRIBUTE_DAT
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -7009,7 +7009,7 @@ Note that any updates made to "/etc/pam.d/system-auth" and "/etc/pam.d/password-
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -7123,7 +7123,7 @@ If it does not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -7237,7 +7237,7 @@ If it does not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -7351,7 +7351,7 @@ If it does not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -7476,7 +7476,7 @@ Issue the following command to make the changes take effect:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -7597,7 +7597,7 @@ If the service is not running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -7712,7 +7712,7 @@ If the default policy for the INPUT chain is not set to DROP, this is a finding.
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -7825,7 +7825,7 @@ install dccp /bin/true</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -7938,7 +7938,7 @@ install sctp /bin/true</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -8051,7 +8051,7 @@ install rds /bin/true</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -8164,7 +8164,7 @@ install tipc /bin/true</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -8283,7 +8283,7 @@ If the owner is not "root", run the following command to correct this:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -8402,7 +8402,7 @@ If the owner is not "root", run the following command to correct this:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -8535,7 +8535,7 @@ To use RELP for log message delivery:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -8668,7 +8668,7 @@ To use RELP for log message delivery:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -8792,7 +8792,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -8917,7 +8917,7 @@ Issue the following command to make the changes take effect:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -9042,7 +9042,7 @@ Issue the following command to make the changes take effect:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -9159,7 +9159,7 @@ If the system is not configured to audit the "stime" syscall, this is a finding.
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -9284,7 +9284,7 @@ Issue the following command to make the changes take effect:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -9409,7 +9409,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -9535,7 +9535,7 @@ net.ipv4.conf.all.log_martians = 1
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -9660,7 +9660,7 @@ Issue the following command to make the changes take effect:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -9777,7 +9777,7 @@ The -k option allows for the specification of a key in string form that can be u
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -9897,7 +9897,7 @@ If the system is not configured to audit account changes, this is a finding.</AT
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -10022,7 +10022,7 @@ Issue the following command to make the changes take effect:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -10147,7 +10147,7 @@ Issue the following command to make the changes take effect:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -10267,7 +10267,7 @@ If the system is not configured to audit account changes, this is a finding.</AT
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -10392,7 +10392,7 @@ Issue the following command to make the changes take effect:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -10512,7 +10512,7 @@ If the system is not configured to audit account changes, this is a finding.</AT
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -10637,7 +10637,7 @@ Issue the following command to make the changes take effect:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -10757,7 +10757,7 @@ If the system is not configured to audit account changes, this is a finding.</AT
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -10882,7 +10882,7 @@ Issue the following command to make the changes take effect:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -11018,7 +11018,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -11133,7 +11133,7 @@ If the system is not configured to audit attempts to change the MAC policy, this
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -11258,7 +11258,7 @@ Issue the following command to make the changes take effect:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -11389,7 +11389,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -11514,7 +11514,7 @@ Issue the following command to make the changes take effect:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -11644,7 +11644,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -11774,7 +11774,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -11901,7 +11901,7 @@ Issue the following command to make the changes take effect:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -12024,7 +12024,7 @@ If the service is not running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -12154,7 +12154,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -12277,7 +12277,7 @@ If the service is not running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -12407,7 +12407,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -12530,7 +12530,7 @@ If the service is not running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -12660,7 +12660,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -12781,7 +12781,7 @@ If the service is not running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -12911,7 +12911,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -13041,7 +13041,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -13171,7 +13171,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -13301,7 +13301,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -13422,7 +13422,7 @@ If the service is not running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -13552,7 +13552,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -13682,7 +13682,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -13812,7 +13812,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -13965,7 +13965,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -14086,7 +14086,7 @@ Then, for each setuid / setgid program on the system, add a line of the followin
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -14212,7 +14212,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -14327,7 +14327,7 @@ Edit /etc/pam.d/system-auth and /etc/pam.d/password-auth adding "ucredit=-1" aft
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -14442,7 +14442,7 @@ Edit /etc/pam.d/system-auth and /etc/pam.d/password-auth adding "ocredit=-1" aft
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -14558,7 +14558,7 @@ Edit /etc/pam.d/system-auth and /etc/pam.d/password-auth adding "lcredit=-1" aft
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -14674,7 +14674,7 @@ Edit /etc/pam.d/system-auth and /etc/pam.d/password-auth adding "difok=[NUM]" af
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -14800,7 +14800,7 @@ Note that any updates made to "/etc/pam.d/system-auth" and "/etc/pam.d/password-
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -14949,7 +14949,7 @@ Note: Any updates made to "/etc/pam.d/system-auth" will be overwritten by the "a
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -15087,7 +15087,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -15201,7 +15201,7 @@ ENCRYPT_METHOD SHA512</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -15315,7 +15315,7 @@ crypt_style = sha512</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -15430,7 +15430,7 @@ If there is no output, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -15544,7 +15544,7 @@ If it does not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -15686,7 +15686,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -15800,7 +15800,7 @@ If it does not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -15930,7 +15930,7 @@ If the service is running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -16047,7 +16047,7 @@ $ chmod 600 /boot/grub/grub.conf</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -16163,7 +16163,7 @@ If the package is installed, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -16288,7 +16288,7 @@ password --encrypted [password-hash]</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -16408,7 +16408,7 @@ SINGLE=/sbin/sulogin</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -16524,7 +16524,7 @@ If the package is installed, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -16644,7 +16644,7 @@ The "PROMPT" option allows the console user to perform an interactive system sta
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -16767,7 +16767,7 @@ If the service is running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -16798,7 +16798,7 @@ If the service is running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>Rule_ID</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>SV-50391r1_rule</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>SV-50391r2_rule</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>Rule_Ver</VULN_ATTRIBUTE>
@@ -16806,11 +16806,15 @@ If the service is running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>Rule_Title</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>The system must allow locking of the console screen in text mode.</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>The system must be configured so that all network connections associated with a communication session are terminated at the end of the session or after 15 minutes of inactivity from the user at a command prompt, except to fulfill documented and validated mission requirements.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>Vuln_Discuss</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Installing "screen" ensures a console locking capability is available for users who may need to suspend console logins.</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Terminating an idle session within a short time period reduces the window of opportunity for unauthorized personnel to take control of a management session enabled on the console or console port that has been left unattended. In addition, quickly terminating an idle session will also free up resources committed by the managed network element.
+
+Terminating network connections associated with communications sessions includes, for example, de-allocating associated TCP/IP address/port pairs at the operating system level and de-allocating networking assignments at the application level if multiple application sessions are using a single operating system-level network connection. This does not mean that the operating system terminates all sessions or network access; it only ends the inactive session and releases the resources associated with that session.
+
+Satisfies: SRG-OS-000029-GPOS-00010, SRG-OS-000163-GPOS-00072</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>IA_Controls</VULN_ATTRIBUTE>
@@ -16818,26 +16822,31 @@ If the service is running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>Check_Content</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Run the following command to determine if the "screen" package is installed: 
+					<ATTRIBUTE_DATA>Verify the operating system terminates all network connections associated with a communications session at the end of the session or based on inactivity.
 
-# rpm -q screen
+Check the value of the system inactivity timeout with the following command:
 
+# grep -i tmout /etc/profile.d/*
 
-If the package is not installed, this is a finding.</ATTRIBUTE_DATA>
+etc/profile.d/tmout.sh:TMOUT=900
+
+/etc/profile.d/tmout.sh:readonly TMOUT
+
+/etc/profile.d/tmout.sh:export TMOUT
+
+If "TMOUT" is not set to "900" or less in a script located in the /etc/profile.d/ directory to enforce session termination after inactivity, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>Fix_Text</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>To enable console screen locking when in text mode, install the "screen" package: 
+					<ATTRIBUTE_DATA>Configure the operating system to terminate all network connections associated with a communications session at the end of the session or after a period of inactivity.
 
-# yum install screen
+Create a script to enforce the inactivity timeout (for example /etc/profile.d/tmout.sh) such as:
 
-Instruct users to begin new terminal sessions with the following command: 
+#!/bin/bash
 
-$ screen
-
-The console can now be locked with the following key combination: 
-
-ctrl+a x</ATTRIBUTE_DATA>
+TMOUT=900
+readonly TMOUT
+export TMOUT</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>False_Positives</VULN_ATTRIBUTE>
@@ -16889,7 +16898,7 @@ ctrl+a x</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -16897,7 +16906,15 @@ ctrl+a x</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>CCI_REF</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>CCI-000058</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>CCI-000057</ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>CCI_REF</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA>CCI-001133</ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>CCI_REF</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA>CCI-002361</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STATUS>Not_Reviewed</STATUS>
 				<FINDING_DETAILS></FINDING_DETAILS>
@@ -17003,7 +17020,7 @@ If the package is installed, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -17129,7 +17146,7 @@ Note that any updates made to "/etc/pam.d/system-auth" and "/etc/pam.d/password-
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -17257,7 +17274,7 @@ If the device cannot support the full DoD logon banner due to character limitati
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -17394,7 +17411,7 @@ If the service is running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -17517,7 +17534,7 @@ https://access.redhat.com/solutions/82273</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -17642,7 +17659,7 @@ Issue the following command to make the changes take effect:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -17767,7 +17784,7 @@ Issue the following command to make the changes take effect:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -17888,7 +17905,7 @@ If the service is running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -18016,7 +18033,7 @@ Restart the vsftpd daemon.
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -18141,7 +18158,7 @@ Issue the following command to make the changes take effect:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -18266,7 +18283,7 @@ Issue the following command to make the changes take effect:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -18388,7 +18405,7 @@ If the service is running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -18502,7 +18519,7 @@ If the package is installed, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -18630,7 +18647,7 @@ If the service is running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -18749,7 +18766,7 @@ If the service is not running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -18863,7 +18880,7 @@ If the package is installed and not documented and approved by the ISSO, this is
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -18981,7 +18998,7 @@ Protocol 2</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -19102,7 +19119,7 @@ If a shorter timeout has already been set for the login shell, that value will p
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -19225,7 +19242,7 @@ If the service is running and not documented and approved by the ISSO, this is a
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -19343,7 +19360,7 @@ ClientAliveCountMax 0</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -19459,7 +19476,7 @@ IgnoreRhosts yes</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -19575,7 +19592,7 @@ HostbasedAuthentication no</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -19689,7 +19706,7 @@ PermitRootLogin no</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -19805,7 +19822,7 @@ Any accounts with empty passwords should be disabled immediately, and PAM config
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -19921,7 +19938,7 @@ Another section contains information on how to create an appropriate system-wide
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -20039,7 +20056,7 @@ PermitUserEnvironment no</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -20156,7 +20173,7 @@ Note: The man page "sshd_config(5)" contains a list of supported ciphers.</ATTRI
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -20284,7 +20301,7 @@ If the service is running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -20395,7 +20412,7 @@ If any .netrc files exist, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -20514,7 +20531,7 @@ If the service is not running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -20635,7 +20652,7 @@ This instructs the NTP software to contact that remote server to obtain time dat
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -20751,7 +20768,7 @@ inet_interfaces = localhost</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -20870,7 +20887,7 @@ If the permissions are not 600 or more restrictive, run the following command to
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -20983,7 +21000,7 @@ If the logrotate service is not run on a daily basis by cron, this is a finding.
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -21103,7 +21120,7 @@ The openldap-servers RPM is not installed by default on RHEL6 machines. It is ne
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -21222,7 +21239,7 @@ If the service is not running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -21343,7 +21360,7 @@ If it is not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -21463,7 +21480,7 @@ If it is not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -21582,7 +21599,7 @@ If the service is not running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -21701,7 +21718,7 @@ If the service is not running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -21817,7 +21834,7 @@ Set the value to "6" (MB) or higher for general-purpose systems. Larger values, 
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -21944,7 +21961,7 @@ Set the "[ACTION]" to "rotate" to ensure log rotation occurs. This is the defaul
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -22060,7 +22077,7 @@ Set the value to 5 for general-purpose systems. Note that values less than 2 res
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -22182,7 +22199,7 @@ yum reinstall [affected_package]</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -22301,7 +22318,7 @@ If it is not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -22421,7 +22438,7 @@ If it is not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -22549,7 +22566,7 @@ If the service is running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -22679,7 +22696,7 @@ If the service is running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -22795,7 +22812,7 @@ Setting the umask to too restrictive a setting can cause serious errors at runti
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -22906,7 +22923,7 @@ If there is output, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -23034,7 +23051,7 @@ If the service is running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -23153,7 +23170,7 @@ UMASK 077</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -23281,7 +23298,7 @@ If the service is running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -23400,7 +23417,7 @@ umask 077</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -23528,7 +23545,7 @@ If the service is running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -23647,7 +23664,7 @@ umask 077</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -23775,7 +23792,7 @@ If the service is running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -23895,7 +23912,7 @@ umask 077</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -24007,7 +24024,7 @@ If the setting does not show, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -24129,7 +24146,7 @@ If there is output, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -24241,7 +24258,7 @@ If the setting does not show, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -24365,7 +24382,7 @@ If any of the identified removable media devices do not have "noexec" defined, t
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -24485,7 +24502,7 @@ Requiring samba clients such as "smbclient" to use packet signing ensures they c
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -24601,7 +24618,7 @@ See the "mount.cifs(8)" man page for more information. A Samba client should onl
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -24720,7 +24737,7 @@ The DoD requirement is five passwords.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -24840,7 +24857,7 @@ https://docs.redhat.com/docs/en-US/Red_Hat_Enterprise_Linux/6/html/Security_Guid
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -24963,7 +24980,7 @@ If there is output, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -25083,7 +25100,7 @@ https://docs.redhat.com/docs/en-US/Red_Hat_Enterprise_Linux/6/html/Security_Guid
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -25203,7 +25220,7 @@ https://docs.redhat.com/docs/en-US/Red_Hat_Enterprise_Linux/6/html/Security_Guid
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -25321,7 +25338,7 @@ If the existing permissions are more permissive than those expected by RPM, this
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -25435,7 +25452,7 @@ If there is output, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -25549,7 +25566,7 @@ If there is output, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -25580,7 +25597,7 @@ If there is output, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>Rule_ID</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>SV-50468r3_rule</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>SV-50468r4_rule</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>Rule_Ver</VULN_ATTRIBUTE>
@@ -25600,9 +25617,7 @@ If there is output, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>Check_Content</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Ask the SA or ISSO if a host-based intrusion detection application is loaded on the system. Per OPORD 16-0080 the preferred intrusion detection system is McAfee HBSS available through Cybercom.
-
-If another host-based intrusion detection application is in use, such as SELinux, this must be documented and approved by the local Authorizing Official.
+					<ATTRIBUTE_DATA>Per OPORD 16-0080, the preferred intrusion detection system is McAfee Host Intrusion Prevention System (HIPS) in conjunction with SELinux. McAfee Endpoint Security for Linux (ENSL) is an approved alternative to McAfee Virus Scan Enterprise (VSE) and HIPS.
 
 Procedure:
 Examine the system to see if the Host Intrusion Prevention System (HIPS) is installed:
@@ -25630,9 +25645,7 @@ If no host-based intrusion detection system is installed and running on the syst
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>Fix_Text</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Install and enable the latest McAfee HIPS package, available from Cybercom.
-
-If the system does not support the McAfee HIPS package, install and enable a supported intrusion detection system application and document its use with the Authorizing Official.
+					<ATTRIBUTE_DATA>Install and enable the latest McAfee HIPS package or McAfee ENSL.
 </ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
@@ -25685,7 +25698,7 @@ If the system does not support the McAfee HIPS package, install and enable a sup
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -25803,7 +25816,7 @@ exec /usr/bin/logger -p authpriv.notice "Ctrl-Alt-Delete pressed"</ATTRIBUTE_DAT
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -25921,7 +25934,7 @@ If the service is not enabled, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -26036,7 +26049,7 @@ AIDE can be executed periodically through other means; this is merely one exampl
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -26150,7 +26163,7 @@ If the package is installed, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -26278,7 +26291,7 @@ If the service is running, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -26393,7 +26406,7 @@ AIDE can be executed periodically through other means; this is merely one exampl
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -26511,7 +26524,7 @@ id:3:initdefault:</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -26628,7 +26641,7 @@ If it is not, this is a finding. </ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -26746,7 +26759,7 @@ If it is not, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -26858,7 +26871,7 @@ If there is output, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -26976,7 +26989,7 @@ The "num_megabytes" value should be set to a fraction of the total audit storage
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -27105,7 +27118,7 @@ GATEWAY=[local LAN default gateway]</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -27219,7 +27232,7 @@ action_mail_acct = root</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -27331,7 +27344,7 @@ If there is output, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -27451,7 +27464,7 @@ install bluetooth /bin/true</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -27563,7 +27576,7 @@ If a line is returned, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -27682,7 +27695,7 @@ A documented site-defined number may be substituted for 10 in the above.</ATTRIB
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -27798,7 +27811,7 @@ If any temporary accounts have no expiration date set or do not expire within a 
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -27913,7 +27926,7 @@ If the default policy for the FORWARD chain is not set to DROP, this is a findin
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -28029,7 +28042,7 @@ If the package is not installed, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -28150,7 +28163,7 @@ To display a banner, this setting must be enabled and then banner text must also
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -28300,7 +28313,7 @@ When entering a warning banner that spans several lines, remember to begin and e
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -28433,7 +28446,7 @@ If any emergency accounts have no expiration date set or do not expire within a 
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -28556,7 +28569,7 @@ If the service is configured to run, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -28676,7 +28689,7 @@ A value of 35 is recommended. If a password is currently on the verge of expirat
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -28794,7 +28807,7 @@ password required pam_cracklib.so maxrepeat=3 </ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -28914,7 +28927,7 @@ A value of 35 is recommended. If a password is currently on the verge of expirat
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -29029,7 +29042,7 @@ AIDE can be executed periodically through other means; this is merely one exampl
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -29144,7 +29157,7 @@ AIDE can be executed periodically through other means; this is merely one exampl
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -29261,7 +29274,7 @@ To set the sticky bit on a world-writable directory [DIR], run the following com
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -29376,7 +29389,7 @@ AIDE can be executed periodically through other means; this is merely one exampl
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -29488,7 +29501,7 @@ If there is output, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -29603,7 +29616,7 @@ AIDE can be executed periodically through other means; this is merely one exampl
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -29727,7 +29740,7 @@ server_args = -s /var/lib/tftpboot</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -29858,7 +29871,7 @@ log_ftp_protocol=YES</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -29979,7 +29992,7 @@ $ sudo gconftool-2 --direct \
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -30086,7 +30099,7 @@ $ sudo gconftool-2 --direct \
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -30117,7 +30130,7 @@ $ sudo gconftool-2 --direct \
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>Rule_ID</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>SV-65573r2_rule</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>SV-65573r3_rule</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>Rule_Ver</VULN_ATTRIBUTE>
@@ -30129,7 +30142,9 @@ $ sudo gconftool-2 --direct \
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>Vuln_Discuss</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Setting the SELinux state to enforcing ensures SELinux is able to confine potentially compromised processes to the security policy, which is designed to prevent them from causing damage to the system or further elevating their privileges. </ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Setting the SELinux state to enforcing ensures SELinux is able to confine potentially compromised processes to the security policy, which is designed to prevent them from causing damage to the system or further elevating their privileges. 
+
+Per OPORD 16-0080, the preferred intrusion detection system is McAfee Host Intrusion Prevention System (HIPS) in conjunction with SELinux. However, McAfee Endpoint Security for Linux (ENSL) is an approved alternative to both McAfee Virus Scan Enterprise (VSE) and HIPS. In either scenario, SELinux is interoperable with the McAfee products and SELinux is still required.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>IA_Controls</VULN_ATTRIBUTE>
@@ -30201,7 +30216,7 @@ SELINUX=enforcing</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -30316,7 +30331,7 @@ Other policies, such as "mls", provide additional security labeling and greater 
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -30429,7 +30444,7 @@ If there is output, this is a finding. </ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -30556,7 +30571,7 @@ If this check produces any unexpected output, investigate. </ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -30672,7 +30687,7 @@ session required pam_lastlog.so showfailed</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -30787,7 +30802,7 @@ Set this value to "single" to cause the system to switch to single-user mode for
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -30898,7 +30913,7 @@ The resulting output will show whether the /tmp partition has the "noexec" flag 
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -31015,7 +31030,7 @@ If the "NOPASSWD" or "!authenticate" options are configured for use in "/etc/sud
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -31152,7 +31167,7 @@ If a wireless interface is configured and has not been documented and approved, 
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -31284,7 +31299,7 @@ If the system is 64-bit, then also add the following:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -31394,7 +31409,7 @@ If there is no anti-virus solution installed on the system, this is a finding.
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -31516,7 +31531,7 @@ If no results are returned, this is a finding.
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -31637,7 +31652,7 @@ If no results are returned, this is a finding.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -31759,7 +31774,7 @@ If no results are returned, this is a finding.
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -31883,7 +31898,7 @@ Change the password for the system/application account:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -31914,7 +31929,7 @@ Change the password for the system/application account:
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>Rule_ID</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>SV-106367r1_rule</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>SV-106367r2_rule</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>Rule_Ver</VULN_ATTRIBUTE>
@@ -31973,7 +31988,7 @@ Install the dracut-fips package with the following command:
 
 Undo existing prelinking, if necessary, on all system files using the following command: 
 
-# prelink -u -a
+# prelink -au
 
 Recreate the "initramfs" file with the following command:
 
@@ -32054,7 +32069,7 @@ Reboot the system for the changes to take effect.</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -32178,7 +32193,7 @@ If the output contains MACs that are not FIPS-approved, or does not return a val
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -32295,7 +32310,7 @@ If any ".shosts" or "shosts.equiv" files are found on the system, this is a find
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -32414,7 +32429,7 @@ The SSH service must be restarted for changes to take effect.
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
-					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 25 Benchmark Date: 24 Apr 2020</ATTRIBUTE_DATA>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
@@ -32423,6 +32438,126 @@ The SSH service must be restarted for changes to take effect.
 				<STIG_DATA>
 					<VULN_ATTRIBUTE>CCI_REF</VULN_ATTRIBUTE>
 					<ATTRIBUTE_DATA>CCI-001453</ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STATUS>Not_Reviewed</STATUS>
+				<FINDING_DETAILS></FINDING_DETAILS>
+				<COMMENTS></COMMENTS>
+				<SEVERITY_OVERRIDE></SEVERITY_OVERRIDE>
+				<SEVERITY_JUSTIFICATION></SEVERITY_JUSTIFICATION>
+			</VULN>
+			<VULN>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>Vuln_Num</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA>V-102441</ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>Severity</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA>high</ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>Group_Title</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA>SRG-OS-000480-GPOS-00227</ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>Rule_ID</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA>SV-111391r1_rule</ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>Rule_Ver</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA>RHEL-06-000010</ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>Rule_Title</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA>The Red Hat Enterprise Linux operating system must be a vendor-supported release.</ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>Vuln_Discuss</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA>An operating system release is considered "supported" if the vendor continues to provide security patches for the product. With an unsupported release, it will not be possible to resolve security issues discovered in the system software.
+The Red Hat Enterprise Linux (RHEL) Extended Life Cycle Support Add-On (ELS) is an offering, for a fee, that provides extended support once a product is retired and has entered the Extended Life Phase. ELS allows customers to continue to receive critical impact security fixes and selected urgent priority bug fixes on a specific major version of RHEL from the end of its regular life cycle for an extended and defined period. ELS is only applicable to the last minor release of the given major release.</ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>IA_Controls</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA></ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>Check_Content</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA>Verify the version of the operating system is vendor supported.
+
+Check the version of the operating system with the following command:
+
+# cat /etc/redhat-release
+
+Red Hat Enterprise Linux Server release 6.10 (Santiago)
+
+Current end of maintenance support for RHEL 6.10 is 30 November 2020.
+
+If the release is not supported by the vendor, this is a finding.
+
+Note: RHEL ELS is available for RHEL 6.10 with a proposed end of support 30 June 2024.</ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>Fix_Text</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA>Upgrade to a supported version of the operating system.</ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>False_Positives</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA></ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>False_Negatives</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA></ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>Documentable</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA>false</ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>Mitigations</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA></ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>Potential_Impact</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA></ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>Third_Party_Tools</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA></ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>Mitigation_Control</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA></ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>Responsibility</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA></ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>Security_Override_Guidance</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA></ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>Check_Content_Ref</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA>M</ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>Weight</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA>10.0</ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>Class</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA>Unclass</ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>STIGRef</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA>Red Hat Enterprise Linux 6 Security Technical Implementation Guide :: Version 1, Release: 26 Benchmark Date: 24 Jul 2020</ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>TargetKey</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA>2367</ATTRIBUTE_DATA>
+				</STIG_DATA>
+				<STIG_DATA>
+					<VULN_ATTRIBUTE>CCI_REF</VULN_ATTRIBUTE>
+					<ATTRIBUTE_DATA>CCI-000366</ATTRIBUTE_DATA>
 				</STIG_DATA>
 				<STATUS>Not_Reviewed</STATUS>
 				<FINDING_DETAILS></FINDING_DETAILS>

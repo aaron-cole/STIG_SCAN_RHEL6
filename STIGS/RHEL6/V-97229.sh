@@ -2,12 +2,12 @@
 ##Automatically defined items##
 
 #Vulnerability Discussion
-#Use of weak or untested encryption algorithms undermines the purposes of using encryption to protect data. The operating system must implement cryptographic modules adhering to the higher standards approved by the federal government since this provides assurance they have been tested and validated.
+#Use of weak or untested encryption algorithms undermines the purposes of using encryption to protect data. The operating system must implement cryptographic modules adhering to the higher standards approved by the federal government to ensure the algorithms have been tested and validated.
 
 #STIG Identification
 GrpID="V-97229"
 GrpTitle="SRG-OS-000033-GPOS-00014"
-RuleID="SV-106367r1_rule"
+RuleID="SV-106367r2_rule"
 STIGID="RHEL-06-000534"
 Results="./Results/$GrpID"
 
