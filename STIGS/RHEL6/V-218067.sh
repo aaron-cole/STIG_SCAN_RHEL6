@@ -7,7 +7,7 @@
 #STIG Identification
 GrpID="V-218067"
 GrpTitle="SRG-OS-000480"
-RuleID="SV-218067r505923_rule"
+RuleID="SV-218067r603264_rule"
 STIGID="RHEL-06-000336"
 Results="./Results/$GrpID"
 
@@ -31,5 +31,3 @@ else
  echo "No world-writable directories with out the Sticky BIT found" >> $Results 
  echo "Pass" >> $Results
 fi
-
-

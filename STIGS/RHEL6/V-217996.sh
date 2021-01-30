@@ -7,7 +7,7 @@
 #STIG Identification
 GrpID="V-217996"
 GrpTitle="SRG-OS-000163"
-RuleID="SV-217996r505923_rule"
+RuleID="SV-217996r603819_rule"
 STIGID="RHEL-06-000230"
 Results="./Results/$GrpID"
 
@@ -25,7 +25,7 @@ echo $STIGID >> $Results
 
 if [ -f /etc/ssh/sshd_config ] && [ "$(grep "^ClientAliveInterval" /etc/ssh/sshd_config | wc -l)" -eq 1 ]; then
 awk -v opf="$Results" '/^ClientAliveInterval/ {
-	if($2 <= 900) {
+	if($2 <= 600) {
 	 print $0 >> opf
 	 print "Pass" >> opf
 	} else {

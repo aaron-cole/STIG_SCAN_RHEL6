@@ -7,7 +7,7 @@
 #STIG Identification
 GrpID="V-218009"
 GrpTitle="SRG-OS-000096"
-RuleID="SV-218009r505923_rule"
+RuleID="SV-218009r603264_rule"
 STIGID="RHEL-06-000249"
 Results="./Results/$GrpID"
 

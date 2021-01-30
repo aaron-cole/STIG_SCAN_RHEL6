@@ -2,12 +2,12 @@
 ##Automatically defined items##
 
 #Vulnerability Discussion
-#Approved algorithms should impart some level of confidence in their implementation. These are also required for compliance.
+#
 
 #STIG Identification
 GrpID="V-218004"
 GrpTitle="SRG-OS-000033"
-RuleID="SV-218004r505923_rule"
+RuleID="SV-218004r603822_rule"
 STIGID="RHEL-06-000243"
 Results="./Results/$GrpID"
 
@@ -23,9 +23,17 @@ echo $STIGID >> $Results
 
 ###Check###
 
-if grep Ciphers /etc/ssh/sshd_config | egrep -vi "#|arcfour|cbc|blowfish|cast" | egrep "aes128-ctr|aes192-ctr|aes256-ctr" >> $Results ; then 
- echo "Pass" >> $Results
+if [ -f /etc/ssh/sshd_config ] && [ "$(grep "^Ciphers" /etc/ssh/sshd_config | wc -l)" -eq 1 ]; then
+ awk -v opf="$Results" '/^Ciphers/ {
+	if($2 == "aes256-ctr,aes192-ctr,aes128-ctr") {
+	 print $0 >> opf
+	 print "Pass" >> opf
+	} else {
+	 print $0 >> opf
+	 print "Fail" >> opf
+	}
+}' /etc/ssh/sshd_config 
 else
- grep Ciphers /etc/ssh/sshd_config | grep -v "#" >> $Results 
+ grep "^Ciphers" /etc/ssh/sshd_config >> $Results 
  echo "Fail" >> $Results
 fi
